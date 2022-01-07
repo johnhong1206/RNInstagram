@@ -6,18 +6,21 @@ The native app is https://github.com/johnhong1206/RNInstagram
 
 ---Main Function---
 
-Posts function
-Liked Post function
-Save Post Function
-Post Details Function
-Following Function
-Personal User Profile
-1-1 Chat Function
-Story Feeds
+1)Posts function
+2)Liked Post function
+3)Save Post Function
+4)Post Details Function
+5)Following Function
+6)Personal User Profile
+7)1-1 Chat Function
+8)Story Feeds
+
+
+
 ---Future Update Plan---
 
-Post Share Function
-Tagging Function
-Stories Reel
+1)Post Share Function
+2)Tagging Function
+3)Stories Reel
 
 
