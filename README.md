@@ -1,6 +1,6 @@
 This is instagram like React Native App
--This Project is built by Istagram clone built with NextJs, Redux, ContextAPI, RNTailwind CSS and Firebase
 
+This Project is built with Istagram clone built with NextJs, Redux, ContextAPI, RNTailwind CSS and Firebase
 
 The webpage of this app is https://github.com/johnhong1206/nextinstagram
 
