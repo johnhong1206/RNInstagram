@@ -1,10 +1,11 @@
+## Instagram React Native
 This is instagram like React Native App
 
 This Project is built with Istagram clone built with NextJs, Redux, ContextAPI, RNTailwind CSS and Firebase
 
 The webpage of this app is https://github.com/johnhong1206/nextinstagram
 
----Main Function---
+## Main Function---
 1) Posts function
 2) Liked Post function 
 3) Save Post Function
@@ -17,7 +18,7 @@ The webpage of this app is https://github.com/johnhong1206/nextinstagram
 
 
 
----Future Update Plan---
+## Future Update Plan---
 1) Post Share Function
 2) Tagging Function
 3) Stories Reel
